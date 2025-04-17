@@ -12,6 +12,9 @@
         android:icon="@drawable/display_128"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.2" />
         <activity
             android:name="com.cloudpos.customsn.activity.MainActivity"
             android:label="@string/app_name">
