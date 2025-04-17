@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomSnApiDemo</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="logcat_output">logcat output</string>
+    <string name="logcat_clear">logcat clear</string>
+    <string name="interval_format_error">The format of interval-time is error!</string>
+    <string name="introduction">Introduction\n Custom demo</string>
+    
+    <string name="autotest_run3">AddCustom</string>
+    <string name="autotest_run4">ClearCustom</string>
+	<string name="autotest_run5">Test3</string>
+	<string name="autotest_run6">Test3</string>
+	
+	<string name="settings">Clear Logs</string>
+	
+	
+</resources>
